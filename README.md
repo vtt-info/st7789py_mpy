@@ -11,7 +11,7 @@ derived from classic pc text mode fonts and a couple of example
 programs that run on the TTGO T-Display.
 
 This is a work in progress. More documentation can be found at
-https://penfold.owt.com/st7789
+https://penfold.owt.com/st7789py/
 
 
 Slow ST7789 driver for MicroPython
